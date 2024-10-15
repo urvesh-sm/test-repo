@@ -1,0 +1,22 @@
+{
+  "welcome_message": {
+    "text": "Welcome to {app_name}!",
+    "description": "Welcome message on the home screen"
+  },
+  "user_greeting": {
+    "text": "Hello, {user_name}! You have {unread_messages} unread messages.",
+    "description": "Greeting message with user name and unread message count"
+  },
+  "rich_text_example": {
+    "text": "This is a [b]bold[/b] and [i]italic[/i] text with a [link href='https://example.com']link[/link]. of version 2",
+    "description": "Example of rich text formatting"
+  },
+  "colored_message": {
+    "text": "This is [color=#FF0000]red[/color] and this is [color=blue]blue[/color] text.",
+    "description": "A message with colored text"
+  },
+  "mixed_styling": {
+    "text": "This is [b][color=#00FF00]bold and green[/color][/b] text with a [link href='https://example.com' color=#FFA500]colored link[/link].",
+    "description": "A message with mixed styling and colors"
+  }
+}
